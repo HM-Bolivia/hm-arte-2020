@@ -1,1 +1,2 @@
-# Linea Gráfica, Hackmeeting 2020
+# ArtesGraficasHackmeeting2020
+Artes Gráficas HackMeeting 2020 por Juan Luis Noguera Aguilar
